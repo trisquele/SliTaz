@@ -1,0 +1,2 @@
+# SliTaz
+My SliTaz sandbox
