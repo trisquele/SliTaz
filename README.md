@@ -1,2 +1,2 @@
 # SliTaz
-My SliTaz sandbox
+My humble works on SliTaz
