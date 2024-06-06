@@ -1,0 +1,30 @@
+amule-2.3.2.tazpkg	recompilé le 08/11/2022 avec wxWidgets-3.0.4 car
+			aMule does not compile with wxWidgets 3.1 or higher
+			(https://forum.amule.org/index.php?topic=21696.0)
+			!  le paquet du cooker de SliTaz est cassé (compilé
+			!  avec wxWidgets-3.2.0)
+
+amule-2.3.3.tazpkg	dernière version de aMule, compilée avec wxWidgets-3.0.4
+
+btop-i686-1.2.13	built on 2022/11/28 from .tbz file (pas sur le mirroir)
+
+finch-2.14.10		built on 2022/11/27 (pas dans le mirroir)
+
+libcomerr3-1.18.tazpkg	recompilé après avoir supprimé PROVIDE="libcomerr"
+			(voir /home/slitaz/wok/libcomerr3/before.cook)
+
+mini-commander-1.0_1	compilé avec ncurses/ncurses-dev, gcc-4.6.3
+			seg fault (F4) et pb d'affichage
+
+pidgin-2.14.10		built on 2022/11/27 (mirroir= v2.14.8)
+
+tazweb-209		built on 05/12/22 recompilé avec ouverture en 1024x768
+			 et mes bookmarks
+
+wordgrinder-0.8		built on 06/12/22 recompilé pour servir de base à
+			wordgrinder-console
+wordgrinder-man-0.8
+
+wordgrinder-console-0.8	built on 06/12/22 version console uniquement destinée à
+			SliTaz 4.0
+wordgrinder-console-man
